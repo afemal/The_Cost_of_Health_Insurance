@@ -27,4 +27,6 @@ Our random forest model provided a R-squared value of 0.86 and a mean absolute e
 ### Navigation
 * The Cost of Health Insurance: Data prep, EDA, and analysis conducted in Jupyter Notebook (Python) 
 * Paper - The Cost of Health Insurance: Final documentation of our findings.
-* Presentation: Video presentation of the project.
+
+### Presentation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F4EP5Q5jQlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
