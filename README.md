@@ -29,4 +29,5 @@ Our random forest model provided a R-squared value of 0.86 and a mean absolute e
 * Paper - The Cost of Health Insurance: Final documentation of our findings.
 
 ### Presentation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F4EP5Q5jQlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/F4EP5Q5jQlY/0.jpg)](https://youtu.be/F4EP5Q5jQlY)
+
